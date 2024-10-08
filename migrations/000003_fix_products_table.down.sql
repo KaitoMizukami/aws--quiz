@@ -1,0 +1,1 @@
+ALTER TABLE products CHANGE stockQuantity stockQunantity INT;

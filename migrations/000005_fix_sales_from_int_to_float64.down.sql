@@ -1,0 +1,1 @@
+ALTER TABLE salesHistory MODIFY totalAmount INT;
